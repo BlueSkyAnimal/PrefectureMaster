@@ -1,0 +1,472 @@
+[
+  {
+    "prefix" : "do",
+    "name" : "北海道",
+    "image" : "Hokkaido",
+    "tip" : "道庁所在地は札幌市。\nさっぽろ雪まつりで有名。",
+    "position" : [
+      1440,
+      366
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "青森",
+    "image" : "Aomori",
+    "tip" : "県庁所在地は青森市。\nりんごが有名。\nねぷた祭りでも知られる。",
+    "position" : [
+      1272,
+      698
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "岩手",
+    "image" : "Iwate",
+    "tip" : "県庁所在地は盛岡市。\nわんこそばや南部鉄器で有名。",
+    "position" : [
+      1336,
+      844
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "宮城",
+    "image" : "Miyagi",
+    "tip" : "県庁所在地は仙台市。\n牛タンやずんだ餅で有名。",
+    "position" : [
+      1312,
+      988
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "秋田",
+    "image" : "Akita",
+    "tip" : "県庁所在地は秋田市。\nなまはげやきりたんぽで有名。\n秋田犬でも知られる。",
+    "position" : [
+      1240,
+      812
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "山形",
+    "image" : "Yamagata",
+    "tip" : "県庁所在地は山形市。\nさくらんぼで有名。",
+    "position" : [
+      1222,
+      954
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "福島",
+    "image" : "Fukushima",
+    "tip" : "県庁所在地は福島市。\n桃や赤べこで有名。",
+    "position" : [
+      1238,
+      1100
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "茨城",
+    "image" : "Ibaraki",
+    "tip" : "県庁所在地は水戸市。\n納豆で有名。",
+    "position" : [
+      1272,
+      1230
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "栃木",
+    "image" : "Tochigi",
+    "tip" : "県庁所在地は宇都宮市。\n宇都宮餃子や、とちおとめで有名。",
+    "position" : [
+      1196,
+      1186
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "群馬",
+    "image" : "Gumma",
+    "tip" : "県庁所在地は前橋市。\n草津温泉やこんにゃくで有名。",
+    "position" : [
+      1112,
+      1214
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "埼玉",
+    "image" : "Saitama",
+    "tip" : "県庁所在地はさいたま市。\n草加せんべいで有名。\nクレヨンしんちゃんの舞台となったことでも知られる。",
+    "position" : [
+      1150,
+      1272
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "千葉",
+    "image" : "Chiba",
+    "tip" : "県庁所在地は千葉市。\n落花生で有名。",
+    "position" : [
+      1264,
+      1334
+    ]
+  },
+  {
+    "prefix" : "to",
+    "name" : "東京",
+    "image" : "Tokyo",
+    "tip" : "日本の首都で、都庁所在地は新宿区。\n東京スカイツリーや雷門・浅草寺で有名。",
+    "position" : [
+      1170,
+      1308
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "神奈川",
+    "image" : "Kanagawa",
+    "tip" : "県庁所在地は横浜市。\n横浜中華街や鎌倉で有名。",
+    "position" : [
+      1154,
+      1348
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "新潟",
+    "image" : "Nigata",
+    "tip" : "県庁所在地は新潟市。\nコシヒカリで有名。",
+    "position" : [
+      1098,
+      1082
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "富山",
+    "image" : "Toyama",
+    "tip" : "県庁所在地は富山市。\nホタルイカやます寿司で有名。",
+    "position" : [
+      942,
+      1190
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "石川",
+    "image" : "Ishikawa",
+    "tip" : "県庁所在地は金沢市。\n兼六園や輪島塗で有名。",
+    "position" : [
+      854,
+      1204
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "福井",
+    "image" : "Fukui",
+    "tip" : "県庁所在地は福井市。\n越前ガニや鯖江のメガネで有名。",
+    "position" : [
+      836,
+      1276
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "山梨",
+    "image" : "Yamanashi",
+    "tip" : "県庁所在地は甲府市。\nぶどうやほうとう、富士山で有名。",
+    "position" : [
+      1078,
+      1324
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "長野",
+    "image" : "Nagano",
+    "tip" : "県庁所在地は長野市。\n軽井沢やりんごで有名。",
+    "position" : [
+      1026,
+      1258
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "岐阜",
+    "image" : "Gifu",
+    "tip" : "県庁所在地は岐阜市。\nさるぼぼや飛騨牛が有名。\n白川郷でも知られる。",
+    "position" : [
+      924,
+      1318
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "静岡",
+    "image" : "Shizuoka",
+    "tip" : "県庁所在地は静岡市。\nお茶や富士山で有名。\nちびまる子ちゃんの舞台となったことでも知られる。",
+    "position" : [
+      1048,
+      1408
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "愛知",
+    "image" : "Aichi",
+    "tip" : "県庁所在地は名古屋市。\n名古屋城や味噌カツ、ひつまぶしで有名。",
+    "position" : [
+      942,
+      1396
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "三重",
+    "image" : "Mie",
+    "tip" : "県庁所在地は津市。\n伊勢神宮や赤福餅、松阪牛で有名。",
+    "position" : [
+      866,
+      1452
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "滋賀",
+    "image" : "Shiga",
+    "tip" : "県庁所在地は大津市。\n日本最大の湖、琵琶湖で有名。\nひこにゃんや彦根城でも知られる。",
+    "position" : [
+      824,
+      1386
+    ]
+  },
+  {
+    "prefix" : "fu",
+    "name" : "京都",
+    "image" : "Kyoto",
+    "tip" : "府庁所在地は京都市。\n古都や寺社仏閣で有名。\n舞妓・芸妓でも知られる。",
+    "position" : [
+      758,
+      1362
+    ]
+  },
+  {
+    "prefix" : "fu",
+    "name" : "大阪",
+    "image" : "Osaka",
+    "tip" : "府庁所在地は大阪市。\nたこ焼きなど、粉もので有名。\nお笑いやよしもと新喜劇でも知られる。",
+    "position" : [
+      754,
+      1452
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "兵庫",
+    "image" : "Hyogo",
+    "tip" : "県庁所在地は神戸市。\n阪神甲子園球場や姫路城で有名。",
+    "position" : [
+      694,
+      1394
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "奈良",
+    "image" : "Nara",
+    "tip" : "県庁所在地は奈良市。\n奈良公園の鹿や、東大寺の大仏で有名。",
+    "position" : [
+      808,
+      1492
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "和歌山",
+    "image" : "Wakayama",
+    "tip" : "県庁所在地は和歌山市。\nみかんや南高梅で有名。\nアドベンチャーワールドのパンダでも知られる。",
+    "position" : [
+      742,
+      1550
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "鳥取",
+    "image" : "Tottori",
+    "tip" : "県庁所在地は鳥取市。\n鳥取砂丘で有名。\n水木しげるロードでも知られる。",
+    "position" : [
+      610,
+      1330
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "島根",
+    "image" : "Shimane",
+    "tip" : "県庁所在地は松江市。\n出雲大社や松江城で有名。",
+    "position" : [
+      446,
+      1368
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "岡山",
+    "image" : "Okayama",
+    "tip" : "県庁所在地は岡山市。\n桃太郎で知られる。\nマスカットでも有名。",
+    "position" : [
+      592,
+      1396
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "広島",
+    "image" : "Hiroshima",
+    "tip" : "県庁所在地は広島市。\n広島焼きで有名。\n厳島神社やもみじ饅頭でも知られる。",
+    "position" : [
+      488,
+      1436
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "山口",
+    "image" : "Yamaguchi",
+    "tip" : "県庁所在地は山口市。\nふぐや瓦そばで有名。",
+    "position" : [
+      346,
+      1470
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "徳島",
+    "image" : "Tokushima",
+    "tip" : "県庁所在地は徳島市。\n阿波踊りや鳴門の渦潮で有名。",
+    "position" : [
+      646,
+      1522
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "香川",
+    "image" : "Kagawa",
+    "tip" : "県庁所在地は高松市。\n讃岐うどんや金刀比羅宮で有名。",
+    "position" : [
+      582,
+      1482
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "愛媛",
+    "image" : "Ehime",
+    "tip" : "県庁所在地は松山市。\nみかんや道後温泉で有名。\n今治タオルでも知られる。",
+    "position" : [
+      472,
+      1548
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "高知",
+    "image" : "Kochi",
+    "tip" : "県庁所在地は高知市。\nカツオのたたきや四万十川で有名。",
+    "position" : [
+      554,
+      1564
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "福岡",
+    "image" : "Fukuoka",
+    "tip" : "県庁所在地や福岡市。\n博多ラーメンや辛子明太子で有名。",
+    "position" : [
+      264,
+      1534
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "佐賀",
+    "image" : "Saga",
+    "tip" : "県庁所在地は佐賀市。\n有田焼や伊万里焼、イカで有名。",
+    "position" : [
+      208,
+      1574
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "長崎",
+    "image" : "Nagasaki",
+    "tip" : "県庁所在地は長崎市。\nカステラや長崎ちゃんぽんで有名。",
+    "position" : [
+      148,
+      1636
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "熊本",
+    "image" : "Kumamoto",
+    "tip" : "県庁所在地は熊本市。\nくまモンや熊本城で有名。",
+    "position" : [
+      274,
+      1636
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "大分",
+    "image" : "Oita",
+    "tip" : "県庁所在地は大分市。\n別府温泉や湯布院温泉で有名。",
+    "position" : [
+      356,
+      1600
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "宮崎",
+    "image" : "Miyazaki",
+    "tip" : "県庁所在地は宮崎市。\nマンゴーやチキン南蛮で有名。",
+    "position" : [
+      342,
+      1708
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "鹿児島",
+    "image" : "Kagoshima",
+    "tip" : "県庁所在地は鹿児島市。\n桜島や焼酎、屋久島で有名。",
+    "position" : [
+      216,
+      1764
+    ]
+  },
+  {
+    "prefix" : "ken",
+    "name" : "沖縄",
+    "image" : "Okinawa",
+    "tip" : "県庁所在地は那覇市。\n海やソーキそば、シーサーで有名。",
+    "position" : [
+      1336,
+      1818
+    ]
+  }
+]

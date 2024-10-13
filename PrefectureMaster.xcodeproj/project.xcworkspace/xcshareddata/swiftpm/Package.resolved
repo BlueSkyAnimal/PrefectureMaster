@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mylibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:BlueSkyAnimal/MyLibrary.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b91b89e4577217c96c826e280164cc8ef6f83498"
+      }
+    }
+  ],
+  "version" : 2
+}
